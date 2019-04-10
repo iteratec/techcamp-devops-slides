@@ -2,7 +2,7 @@
 
 ---
 
-# Was heißt DevOps?
+## Was heißt DevOps?
 
 ![Dev und Ops](./img/IMG_3359_1.JPG)
 
@@ -11,7 +11,7 @@ Notes:
 
 ---
 
-# Was tut DevOps?
+## Was tut DevOps?
 
 ![DevOps Aufgaben](./img/IMG_3360.JPG)
 
@@ -25,7 +25,7 @@ Notes:
 
 ---
 
-# Warum DevOps?
+## Warum DevOps?
 
 ![Was bringt DevOps](./img/IMG_3361.JPG)
 
@@ -44,7 +44,7 @@ Notes:
 
 ---
 
-# Wie sieht DevOps heute aus?
+## Wie sieht DevOps heute aus?
 
 ![DevOps Heute](./img/IMG_3359_2.JPG)
 
@@ -55,7 +55,7 @@ Notes:
 
 ---
 
-# Wie funktioniert DevOps richtig?
+## Wie funktioniert DevOps richtig?
 
 ![DevOps richtig](./img/IMG_3359_3.JPG)
 
@@ -71,7 +71,7 @@ Notes:
 
 ---
 
-# Wie komme ich zu DevOps?
+## Wie komme ich zu DevOps?
 
 ![DevOps Ausbildung](./img/IMG_3364.JPG)
 
@@ -81,7 +81,7 @@ Notes:
 
 ---
 
-# Was ist DevOps nicht?
+## Was ist DevOps nicht?
 
 Notes:
 * 24/7 Support (wartungsarmer vollautomatisierter Betrieb)
