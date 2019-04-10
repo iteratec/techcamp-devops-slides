@@ -13,9 +13,6 @@ Notes:
 
 ## Was tut DevOps?
 
-![DevOps Aufgaben](./img/IMG_3360.JPG)
-
-Notes:
 * die Methoden von Dev auf Ops anwenden:
     * Automatisierung
     * Tests
@@ -27,8 +24,6 @@ Notes:
 
 ## Warum DevOps?
 
-![Was bringt DevOps](./img/IMG_3361.JPG)
-
 Notes:
 * you build it, you run it
 * speed -> agil
@@ -39,7 +34,7 @@ Notes:
 
 Notes:
 * Fachabteilung - Entwicklung - Betrieb
-----------------agil--------DevOps-------
+* ------------agil--------DevOps-------
 * Agile Teams mit DevOps Kompetenz - BizDevOps
 
 ---
