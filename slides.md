@@ -5,21 +5,55 @@
 
 ## Was heißt DevOps?
 
-![Dev und Ops](./img/IMG_3359_1.JPG)
-
 Notes:
 * Was früher getrennt war, zusammenbringen
+
+----
+
+![Dev und Ops](./img/diagram_01.svg)
+
+----
+
+![Dev und Ops](./img/diagram_02.svg)
 
 ---
 
 ## Was tut DevOps?
 
+----
+
+![DevOps Unterteilung](./img/diagram_11.svg)
+
+Notes:
 * die Methoden von Dev auf Ops anwenden:
     * Automatisierung
     * Tests
     * Versionsverwaltung
-    * IaC
     * Staging
+
+----
+
+![DevOps Unterteilung](./img/diagram_12.svg)
+
+----
+
+![DevOps Unterteilung](./img/diagram_13.svg)
+
+----
+
+![DevOps Unterteilung](./img/diagram_14.svg)
+
+----
+
+![DevOps Unterteilung](./img/diagram_15.svg)
+
+----
+
+![DevOps Unterteilung](./img/diagram_16.svg)
+
+----
+
+![DevOps Unterteilung](./img/diagram_17.svg)
 
 ---
 
@@ -31,45 +65,153 @@ Notes:
 
 ----
 
-![DevOps und Agilität](./img/IMG_3362.JPG)
+![DevOps und Agilität](./img/diagram_21.svg)
+
+&nbsp;
+-----
+
+----
+
+![DevOps und Agilität](./img/diagram_22.svg)
+
+&nbsp;
+-----
+
+----
+
+![DevOps und Agilität](./img/diagram_23.svg)
+
+&nbsp;
+-----
+
+----
+
+![DevOps und Agilität](./img/diagram_24.svg)
+
+&nbsp;
+-----
 
 Notes:
-* Fachabteilung - Entwicklung - Betrieb
-* ------------agil--------DevOps-------
 * Agile Teams mit DevOps Kompetenz - BizDevOps
+
+----
+
+![DevOps und Agilität](./img/diagram_24.svg)
+
+Biz
+-------
+
+----
+
+![DevOps und Agilität](./img/diagram_24.svg)
+
+BizDev
+--------
+
+----
+
+![DevOps und Agilität](./img/diagram_24.svg)
+
+BizDevOps
+---------
 
 ---
 
 ## Wie sieht DevOps heute aus?
 
-![DevOps Heute](./img/IMG_3359_2.JPG)
+----
+
+![DevOps Heute](./img/diagram_31.svg)
+
+&nbsp;
+----------
+
+----
+
+![DevOps Heute](./img/diagram_32.svg)
+
+&nbsp;
+----------
 
 Notes:
-* spezialisierte Rollen anstatt Entwicklern
+* spezialisierte Rollen anstatt Entwickler
+
+----
+
+![DevOps Heute](./img/diagram_33.svg)
+
+&nbsp;
+----------
+
+----
+
+![DevOps Heute](./img/diagram_33.svg)
+
+Team <= 10
+----------
+
+Notes:
 * 2-Pizza-Team passt nicht mehr
-* für QA ist schon selbstverständlich, dass Entwickler Unittests schreiben
+
+----
+
+![DevOps Heute](./img/diagram_34.svg)
+
+Team <= 10
+----------
 
 ---
 
 ## Wie funktioniert DevOps richtig?
 
-![DevOps richtig](./img/IMG_3359_3.JPG)
+----
+
+![DevOps Heute](./img/diagram_34.svg)
 
 ----
 
-![DevOps Unterteilung](./img/IMG_3363.JPG)
+![DevOps richtig](./img/diagram_41.svg)
 
 Notes:
-* lieber: jeder hat querschnittliche Kompetenzen
+* Generalisten statt Spezialisten
+* Entwickler mit meistem Wissen auf einem Gebiet agieren als Champions
+* für QA ist schon selbstverständlich, dass Entwickler Unittests schreiben
 * DevOps-Rolle im Team <-> DevOps-fähiges Team
-* BizSecDevQAOps-Team als Animation mit UX, Performance
+
+----
+
+![DevOps Unterteilung](./img/diagram_01.svg)
+
+----
+
+![DevOps Unterteilung](./img/diagram_03.svg)
+
+Notes:
+* Ops verantwortete bisher Applikationsbetrieb und Infrastruktur
+
+----
+
+![DevOps Unterteilung](./img/diagram_04.svg)
+
+Notes:
+* horizontaler Schnitt der Aufgaben
+
+----
+
+![DevOps Unterteilung](./img/diagram_05.svg)
+
+----
+
+![DevOps Unterteilung](./img/diagram_06.svg)
+
+Notes:
+* erfordert querschnittliche Kompetenzen
+* BizSecUXDevQAOps-Teams?
 * DevOps wird in Form von Libraries abstrahiert
 
 ---
 
 ## Wie komme ich zu DevOps?
-
-![DevOps Ausbildung](./img/IMG_3364.JPG)
 
 Notes:
 * https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb
@@ -88,8 +230,6 @@ Notes:
 
 ## Was wird aus DevOps?
 
-![DevOps morgen](./img/IMG_3365.JPG)
-
 Notes:
-* Wandel und Verschiebung zwischen Anwendern, Entwicklern und Betreibern
+* Wandel und Verschiebung von Aufgaben zwischen Anwendern, Entwicklern und Betreibern
 
