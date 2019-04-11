@@ -213,9 +213,62 @@ Notes:
 
 ## Wie komme ich zu DevOps?
 
-Notes:
-* https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb
-* https://wiki.iteratec.io/display/DEVOPS/DevOps+Ausbildung+bei+iteratec
+----
+
+![DevOps Ausbildung](./img/diagram_51.svg)
+
+----
+
+![DevOps Ausbildung](./img/diagram_52.svg)
+
+----
+
+![DevOps Ausbildung](./img/diagram_53.svg)
+
+----
+
+![DevOps Ausbildung](./img/diagram_54.svg)
+
+----
+
+![DevOps Ausbildung](./img/diagram_55.svg)
+
+----
+
+![DevOps Ausbildung](./img/diagram_56.svg)
+
+----
+
+![DevOps Ausbildung](./img/diagram_57.svg)
+
+----
+
+![DevOps Ausbildung](./img/diagram_58.svg)
+
+----
+<!-- .slide: class="col-2" -->
+
+&nbsp;
+
+![DevOps Roadmap](./img/roadmap.png)
+
+----
+<!-- .slide: class="col-2" -->
+
+kamranahmedse
+https://github.com/kamranahmedse/developer-roadmap
+
+![DevOps Roadmap](./img/roadmap.png)
+
+----
+<!-- .slide: class="col-2" -->
+
+kamranahmedse
+https://github.com/kamranahmedse/developer-roadmap
+<br/><br/>
+https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb
+
+![DevOps Roadmap](./img/roadmap.png)
 
 ---
 
