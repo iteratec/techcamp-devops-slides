@@ -22,7 +22,7 @@ Notes:
 
 ----
 
-![DevOps Unterteilung](./img/diagram_11.svg)
+![DevOps Aufgaben](./img/diagram_11.svg)
 
 Notes:
 * die Methoden von Dev auf Ops anwenden:
@@ -33,27 +33,27 @@ Notes:
 
 ----
 
-![DevOps Unterteilung](./img/diagram_12.svg)
+![DevOps Aufgaben](./img/diagram_12.svg)
 
 ----
 
-![DevOps Unterteilung](./img/diagram_13.svg)
+![DevOps Aufgaben](./img/diagram_13.svg)
 
 ----
 
-![DevOps Unterteilung](./img/diagram_14.svg)
+![DevOps Aufgaben](./img/diagram_14.svg)
 
 ----
 
-![DevOps Unterteilung](./img/diagram_15.svg)
+![DevOps Aufgaben](./img/diagram_15.svg)
 
 ----
 
-![DevOps Unterteilung](./img/diagram_16.svg)
+![DevOps Aufgaben](./img/diagram_16.svg)
 
 ----
 
-![DevOps Unterteilung](./img/diagram_17.svg)
+![DevOps Aufgaben](./img/diagram_17.svg)
 
 ---
 
@@ -180,29 +180,29 @@ Notes:
 
 ----
 
-![DevOps Unterteilung](./img/diagram_01.svg)
+![DevOps Aufgaben](./img/diagram_01.svg)
 
 ----
 
-![DevOps Unterteilung](./img/diagram_03.svg)
+![DevOps Aufgaben](./img/diagram_03.svg)
 
 Notes:
 * Ops verantwortete bisher Applikationsbetrieb und Infrastruktur
 
 ----
 
-![DevOps Unterteilung](./img/diagram_04.svg)
+![DevOps Aufgaben](./img/diagram_04.svg)
 
 Notes:
 * horizontaler Schnitt der Aufgaben
 
 ----
 
-![DevOps Unterteilung](./img/diagram_05.svg)
+![DevOps Aufgaben](./img/diagram_05.svg)
 
 ----
 
-![DevOps Unterteilung](./img/diagram_06.svg)
+![DevOps Aufgaben](./img/diagram_06.svg)
 
 Notes:
 * erfordert querschnittliche Kompetenzen
