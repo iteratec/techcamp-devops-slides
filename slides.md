@@ -1,4 +1,5 @@
-# DevOps - Mehr als nur ein Hype
+# DevOps
+## Mehr als nur ein Hype
 
 ---
 
@@ -85,7 +86,7 @@ Notes:
 
 ---
 
-# Was wird aus DevOps?
+## Was wird aus DevOps?
 
 ![DevOps morgen](./img/IMG_3365.JPG)
 
