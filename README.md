@@ -16,6 +16,11 @@ $ npm start
 $ npm run build
 ```
 
+## Release static website to GitHub Pages
+```bash
+$ npm run release "Release v1.0.0"
+```
+
 ## Export as PDF
 ```bash
 $ npm run pdf
