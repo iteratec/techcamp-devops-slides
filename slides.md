@@ -255,34 +255,30 @@ Notes:
 ----
 <!-- .slide: class="col-2" -->
 
-kamranahmedse
-https://github.com/kamranahmedse/developer-roadmap
+Kamran Ahmed
+https://github.com/kamranahmedse/developer-roadmap#devops-roadmap
 
 ![DevOps Roadmap](./img/roadmap.png)
 
 ----
 <!-- .slide: class="col-2" -->
 
-kamranahmedse
-https://github.com/kamranahmedse/developer-roadmap
+Kamran Ahmed
+https://github.com/kamranahmedse/developer-roadmap#devops-roadmap
 <br/><br/>
+Javin Paul
 https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb
 
 ![DevOps Roadmap](./img/roadmap.png)
 
 ---
 
-## Was ist DevOps nicht?
+## Noch Fragen?
 
-Notes:
-* 24/7 Support (wartungsarmer vollautomatisierter Betrieb)
-* Infrastrukturteams auflösen und auf Teams aufteilen (Applikations- und
-  Infrabetrieb)
+Steven Berlin @_sberlin<br/>
+[steven-sebastian.berlin@iteratec.com](mailto:steven-sebastian.berlin@iteratec.com)
 
----
+Uwe Bessle @bessi65<br/>
+[uwe.bessle@iteratec.com](mailto:uwe.bessle@iteratec.com)
 
-## Was wird aus DevOps?
-
-Notes:
-* Wandel und Verschiebung von Aufgaben zwischen Anwendern, Entwicklern und Betreibern
-
+https://iteratec.de/
