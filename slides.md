@@ -18,7 +18,7 @@ Notes:
 
 ---
 
-## Was tut DevOps?
+## Was tut man da?
 
 ----
 
@@ -59,9 +59,23 @@ Notes:
 
 ## Warum DevOps?
 
-Notes:
+----
+
+## Warum DevOps?
+
 * you build it, you run it
-* speed -> agil
+
+----
+
+## Warum DevOps?
+
+* you build it, you run it
+* Ohne Tickets mehr Geschwindigkeit
+
+---
+
+## Mehr Speed?
+## Also Agil?
 
 ----
 
@@ -177,6 +191,23 @@ Notes:
 * Entwickler mit meistem Wissen auf einem Gebiet agieren als Champions
 * für QA ist schon selbstverständlich, dass Entwickler Unittests schreiben
 * DevOps-Rolle im Team <-> DevOps-fähiges Team
+
+---
+
+## Was spricht gegen DevOps?
+
+* 24/7 Support
+
+----
+
+Evolution App Betrieb
+
+----
+
+## Was spricht gegen DevOps?
+
+* 24/7 Support
+* Was ist mit der zentralen Infrastruktur?
 
 ----
 
