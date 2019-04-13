@@ -7,32 +7,35 @@ https://iteratec.github.io/techcamp-devops-slides/#/
 ## PDF
 https://github.com/iteratec/techcamp-devops-slides/raw/gh-pages/devops-mehr-als-nur-ein-hype.pdf
 
-## Setup
+## Usage
+Type a `?` in the presentation to open a dialog listing the available shortcuts.
+
+### Setup
 ```bash
 $ npm install
 ```
 
-## Start presentation
+### Start presentation
 ```bash
 $ npm start
 ```
 
-## Build static website
+### Build static website
 ```bash
 $ npm run build
 ```
 
-## Release static website to GitHub Pages
+### Release static website and PDF export to GitHub Pages
 ```bash
 $ npm run release "Release v1.0.0"
 ```
 
-## Export as PDF
+### Export as PDF
 ```bash
 $ npm run pdf
 ```
 
-## Development
+### Development
 ```bash
 $ npm run dev
 ```
