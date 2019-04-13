@@ -16,3 +16,6 @@
     width: 50%;
 }
 
+.reveal .slides section.t-210  {
+    top: 210px !important;
+}

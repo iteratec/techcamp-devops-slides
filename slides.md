@@ -16,6 +16,14 @@ Notes:
 
 ![Dev und Ops](./img/diagram_02.svg)
 
+----
+
+![Dev und Ops](./img/diagram_03.svg)
+
+----
+
+![Dev und Ops](./img/diagram_04.svg)
+
 ---
 
 ## Was tut man da?
@@ -23,13 +31,6 @@ Notes:
 ----
 
 ![DevOps Aufgaben](./img/diagram_11.svg)
-
-Notes:
-* die Methoden von Dev auf Ops anwenden:
-    * Automatisierung
-    * Tests
-    * Versionsverwaltung
-    * Staging
 
 ----
 
@@ -55,22 +56,40 @@ Notes:
 
 ![DevOps Aufgaben](./img/diagram_17.svg)
 
+----
+
+![DevOps Aufgaben](./img/diagram_18.svg)
+
+----
+
+![DevOps Aufgaben](./img/diagram_19.svg)
+
+Notes:
+* die Methoden von Dev auf Ops anwenden:
+    * Automatisierung
+    * Tests
+    * Versionsverwaltung
+    * Staging
+
 ---
+<!-- .slide: class="t-210" -->
 
 ## Warum DevOps?
 
 ----
+<!-- .slide: class="t-210" -->
 
 ## Warum DevOps?
 
-* you build it, you run it
+### you build it, you run it
 
 ----
+<!-- .slide: class="t-210" -->
 
 ## Warum DevOps?
 
-* you build it, you run it
-* Ohne Tickets mehr Geschwindigkeit
+### you build it, you run it
+### speed
 
 ---
 
@@ -79,28 +98,28 @@ Notes:
 
 ----
 
-![DevOps und Agilität](./img/diagram_21.svg)
+![DevOps und Agilität](./img/diagram_51.svg)
 
 &nbsp;
 -----
 
 ----
 
-![DevOps und Agilität](./img/diagram_22.svg)
+![DevOps und Agilität](./img/diagram_52.svg)
 
 &nbsp;
 -----
 
 ----
 
-![DevOps und Agilität](./img/diagram_23.svg)
+![DevOps und Agilität](./img/diagram_53.svg)
 
 &nbsp;
 -----
 
 ----
 
-![DevOps und Agilität](./img/diagram_24.svg)
+![DevOps und Agilität](./img/diagram_54.svg)
 
 &nbsp;
 -----
@@ -110,21 +129,21 @@ Notes:
 
 ----
 
-![DevOps und Agilität](./img/diagram_24.svg)
+![DevOps und Agilität](./img/diagram_54.svg)
 
 Biz
 -------
 
 ----
 
-![DevOps und Agilität](./img/diagram_24.svg)
+![DevOps und Agilität](./img/diagram_54.svg)
 
 BizDev
 --------
 
 ----
 
-![DevOps und Agilität](./img/diagram_24.svg)
+![DevOps und Agilität](./img/diagram_54.svg)
 
 BizDevOps
 ---------
@@ -147,9 +166,6 @@ BizDevOps
 &nbsp;
 ----------
 
-Notes:
-* spezialisierte Rollen anstatt Entwickler
-
 ----
 
 ![DevOps Heute](./img/diagram_33.svg)
@@ -159,7 +175,17 @@ Notes:
 
 ----
 
-![DevOps Heute](./img/diagram_33.svg)
+![DevOps Heute](./img/diagram_34.svg)
+
+&nbsp;
+----------
+
+Notes:
+* spezialisierte Rollen anstatt Entwickler
+
+----
+
+![DevOps Heute](./img/diagram_34.svg)
 
 Team <= 10
 ----------
@@ -169,7 +195,7 @@ Notes:
 
 ----
 
-![DevOps Heute](./img/diagram_34.svg)
+![DevOps Heute](./img/diagram_35.svg)
 
 Team <= 10
 ----------
@@ -180,65 +206,129 @@ Team <= 10
 
 ----
 
-![DevOps Heute](./img/diagram_34.svg)
+![DevOps richtig](./img/diagram_41.svg)
+
+&nbsp;
+----------
 
 ----
 
-![DevOps richtig](./img/diagram_41.svg)
+![DevOps richtig](./img/diagram_42.svg)
+
+&nbsp;
+----------
 
 Notes:
+* Entwickler entwickeln heute schon nicht ausschließlich
+* Unittests gehören zur Entwicklung als Teil der Testautomatisierung
+
+----
+
+![DevOps richtig](./img/diagram_43.svg)
+
+&nbsp;
+----------
+
+Notes:
+* auch andere querschnittliche Kompetenzen gehören zur Entwicklung
 * Generalisten statt Spezialisten
 * Entwickler mit meistem Wissen auf einem Gebiet agieren als Champions
-* für QA ist schon selbstverständlich, dass Entwickler Unittests schreiben
 * DevOps-Rolle im Team <-> DevOps-fähiges Team
+
+----
+
+![DevOps richtig](./img/diagram_43.svg)
+
+Biz
+----------------
+
+----
+
+![DevOps richtig](./img/diagram_43.svg)
+
+BizUX
+----------------
+
+----
+
+![DevOps richtig](./img/diagram_43.svg)
+
+BizUXSec
+----------------
+
+----
+
+![DevOps richtig](./img/diagram_43.svg)
+
+BizUXSecDev
+----------------
+
+----
+
+![DevOps richtig](./img/diagram_43.svg)
+
+BizUXSecDevQA
+----------------
+
+----
+
+![DevOps richtig](./img/diagram_43.svg)
+
+BizUXSecDevQAOps
+----------------
 
 ---
 
 ## Was spricht gegen DevOps?
 
-* 24/7 Support
+----
+
+### 24/7 Support?
 
 ----
 
-Evolution App Betrieb
+![DevOps Support](./img/diagram_61.svg)
 
 ----
 
-## Was spricht gegen DevOps?
-
-* 24/7 Support
-* Was ist mit der zentralen Infrastruktur?
+### Zentrale Infrastruktur?
 
 ----
 
-![DevOps Aufgaben](./img/diagram_01.svg)
+![DevOps Aufgaben](./img/diagram_02.svg)
 
 ----
 
-![DevOps Aufgaben](./img/diagram_03.svg)
+![DevOps Aufgaben](./img/diagram_05.svg)
 
 Notes:
 * Ops verantwortete bisher Applikationsbetrieb und Infrastruktur
 
 ----
 
-![DevOps Aufgaben](./img/diagram_04.svg)
+![DevOps Aufgaben](./img/diagram_06.svg)
 
 Notes:
 * horizontaler Schnitt der Aufgaben
 
 ----
 
-![DevOps Aufgaben](./img/diagram_05.svg)
+![DevOps Aufgaben](./img/diagram_07.svg)
 
 ----
 
-![DevOps Aufgaben](./img/diagram_06.svg)
+![DevOps Aufgaben](./img/diagram_08.svg)
 
 Notes:
 * erfordert querschnittliche Kompetenzen
-* BizSecUXDevQAOps-Teams?
 * DevOps wird in Form von Libraries abstrahiert
+* Application Team konsumiert Infrastruktur im Self Service
+
+----
+
+![DevOps Aufgaben](./img/diagram_09.svg)
+
+Notes:
 
 ---
 
@@ -246,35 +336,27 @@ Notes:
 
 ----
 
-![DevOps Ausbildung](./img/diagram_51.svg)
+![DevOps Ausbildung](./img/diagram_19.svg)
 
 ----
 
-![DevOps Ausbildung](./img/diagram_52.svg)
+![DevOps Ausbildung](./img/diagram_20.svg)
 
 ----
 
-![DevOps Ausbildung](./img/diagram_53.svg)
+![DevOps Ausbildung](./img/diagram_21.svg)
 
 ----
 
-![DevOps Ausbildung](./img/diagram_54.svg)
+![DevOps Ausbildung](./img/diagram_22.svg)
 
 ----
 
-![DevOps Ausbildung](./img/diagram_55.svg)
+![DevOps Ausbildung](./img/diagram_23.svg)
 
 ----
 
-![DevOps Ausbildung](./img/diagram_56.svg)
-
-----
-
-![DevOps Ausbildung](./img/diagram_57.svg)
-
-----
-
-![DevOps Ausbildung](./img/diagram_58.svg)
+![DevOps Ausbildung](./img/diagram_24.svg)
 
 ----
 <!-- .slide: class="col-2" -->
