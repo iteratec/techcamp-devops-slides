@@ -394,4 +394,7 @@ Steven Berlin @_sberlin<br/>
 Uwe Bessle @bessi65<br/>
 [uwe.bessle@iteratec.com](mailto:uwe.bessle@iteratec.com)
 
-https://iteratec.de/
+https://iteratec.de
+
+https://github.com/iteratec/techcamp-devops-slides
+
