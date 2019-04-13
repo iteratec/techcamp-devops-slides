@@ -1,7 +1,11 @@
 # DevOps - Mehr als nur ein Hype
 Slides for the DevOps keynote at TechCamp 2019 https://techcamp.hamburg/
 
+## Live
 https://iteratec.github.io/techcamp-devops-slides/#/
+
+## PDF
+https://github.com/iteratec/techcamp-devops-slides/raw/gh-pages/devops-mehr-als-nur-ein-hype.pdf
 
 ## Setup
 ```bash
