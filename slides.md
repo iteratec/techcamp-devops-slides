@@ -75,6 +75,13 @@ DevOps Stellenausschreibungen auf StepStone
 Notes:
 Auch auf dem Stellenmarkt spielt das Thema DevOps inzwischen eine große Rolle. Hier einmal exemplarisch 1310 aktuelle Stellenausschreibungen auf StepStone für DevOps
 
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script>
+<script type="text/javascript">
+  trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"DevOps","geo":"","time":"2014-03-14 2019-04-14"},{"keyword":"kubernetes","geo":"","time":"2014-03-14 2019-04-14"}],"category":0,"property":""}, {"exploreQuery":"date=2014-03-14%202019-04-14&q=DevOps,kubernetes","guestPath":"https://trends.google.com:443/trends/embed/"});
+</script>
+
+Notes:
+
 ---
 
 ## Was heißt DevOps?
