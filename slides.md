@@ -1,12 +1,10 @@
 # DevOps
 ## Mehr als nur ein Hype?
 
-Notes:
-- Uwe
-Herzlich Willkommen zum DevOps Track auf dem TechCamp 2019. Wir, mein Kollege Steven und ich wollen Euch ein wenig auf das Thema des Tracks einstimmen.
+Notes: Uwe
+* Herzlich Willkommen zum DevOps Track auf dem TechCamp 2019. Wir, mein Kollege Steven und ich wollen Euch ein wenig auf das Thema des Tracks einstimmen.
 Wir glauben nämlich, dass das Thema DevOps mehr als nur ein Hype ist. DevOps wird das Anforderungsprofil, was man künftig als Entwickler können und tun muss, nachhaltig verändern.
-
-Aber lasst uns mit der Frage starten, ob DevOps überhaupt ein Hype ist.
+* Aber lasst uns mit der Frage starten, ob DevOps überhaupt ein Hype ist.
 
 ----
 
@@ -16,7 +14,7 @@ Das Interesse an DevOps wächst kontinuierlich
 
 ![DevOps Trend](./img/DevOps_Google_Trends_2019-04-14.png)
 
-Notes:
+Notes: Uwe
 Wie man an den Daten von Google Trends sieht, steigt das Interesse am Thema DevOps seit 2014 kontinuierlich an. Seit ca. Mitte 2018 hat sich diese Entwicklung sogar noch beschleunigt.
 
 ----
@@ -27,7 +25,7 @@ Zum Vergleich das Interesse am aktuellen Hype-Thema Kubernetes
 
 ![DevOps Kubernetes Trend](./img/DevOps_kubernetes_Google_Trends_2019-04-14.png)
 
-Notes:
+Notes: Uwe
 Damit Ihr ein Gefühl für das absolute Interesse an dem Thema bekommt, habe ich hier mal den Vergleich zum Interesse an Kubernetes dargestellt.
 Wie man sieht, hat Kubernetes den anfänglichen Rückstand seit Anfang 2016 kontinuierlich aufgeholt und ist in der ersten Hälfte 2017 an DevOps vorbei gezogen. Wer genau hinschaut erkennt aber, dass DevOps seit Mitte 2018 beim Wachstum gleich gezogen hat und langsam wieder Boden gut macht.
 
@@ -39,7 +37,7 @@ China und Indien liegen weit vorn beim Interesse an DevOps
 
 ![DevOps Trend](./img/DevOps_Google_Trends_nach-Region_2019-04-14.png)
 
-Notes:
+Notes: Uwe
 Besonders interessant war für mich die Auswertung nach Regionen. China und Indien liegen weit vorn.
 
 ----
@@ -50,7 +48,7 @@ Die USA und Großbritannien müssen aufpassen, nicht abgehängt zu werden
 
 ![DevOps Trend](./img/DevOps_Google_Trends_nach-Region-US_2019-04-14.png)
 
-Notes:
+Notes: Uwe
 Während die üblichen Vorreiter, also die USA und Großbritannien mit deutlichem Abstand bei den Google Suchanfragen folgen
 
 ----
@@ -61,7 +59,7 @@ Deutschland rangiert momentan unter ferner liefen
 
 ![DevOps Trend](./img/DevOps_Google_Trends_nach-Region-DE_2019-04-14.png)
 
-Notes:
+Notes: Uwe
 Deutschland rangiert da schon etwas abgeschlagen, zwischen den Vereinigten Arabischen Emiraten und Südafrika.
 
 ----
@@ -72,22 +70,14 @@ DevOps Stellenausschreibungen auf StepStone
 
 ![DevOps Trend](./img/StepStone_Jobsuche_DevOps_2019-04-14.png)
 
-Notes:
+Notes: Uwe
 Auch auf dem Stellenmarkt spielt das Thema DevOps inzwischen eine große Rolle. Hier einmal exemplarisch 1310 aktuelle Stellenausschreibungen auf StepStone für DevOps
-
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script>
-<script type="text/javascript">
-  trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"DevOps","geo":"","time":"2014-03-14 2019-04-14"},{"keyword":"kubernetes","geo":"","time":"2014-03-14 2019-04-14"}],"category":0,"property":""}, {"exploreQuery":"date=2014-03-14%202019-04-14&q=DevOps,kubernetes","guestPath":"https://trends.google.com:443/trends/embed/"});
-</script>
-
-Notes:
 
 ---
 
 ## Was heißt DevOps?
 
-Notes:
-Uwe
+Notes: Uwe
 - DevOps ist also tatsächlich aktuell ein Hype-Thema.
 - Aber Steven, sag doch mal, was verbirgt sich hinter diesem komischen DevOps eigentlich?
 
@@ -100,35 +90,34 @@ Steven
 
 ![Dev und Ops](./img/diagram_01.svg)
 
-Notes:
+Notes: Steven
 Bei DevOps geht es genau darum Applikations-Entwicklung
 
 ----
 
 ![Dev und Ops](./img/diagram_02.svg)
 
-Notes:
+Notes: Steven
 und Betrieb von Anwendungen,
 ----
 
 ![Dev und Ops](./img/diagram_03.svg)
 
-Notes:
+Notes: Steven
 - also das, was früher streng durch eine hohe Mauer getrennt war,
 - über die dann ab und zu mal ein fertiges Release geworfen wurde,
 
 ----
 
 ![Dev und Ops](./img/diagram_04.svg)
-Notes:
+Notes: Steven
 zusammenzubringen.
 
 ---
 
 ## Was tut man da?
 
-Notes:
-Steven
+Notes: Steven
 - Irgendwie klingt das jetzt noch nicht so richtig revolutionär.
 - Sag mal Uwe, was ändert sich denn jetzt eigentlich durch DevOps?
 - Was tut man denn da so?
@@ -137,8 +126,7 @@ Steven
 
 ![DevOps Aufgaben](./img/diagram_11.svg)
 
-Notes:
-Uwe
+Notes: Uwe
 - Eigentlich ist das ziemlich trivial. Entwickler tun das, was sie immer tun,
 - sie entwickeln Programme, die Dinge, die bisher manuell getan wurden, automatisiert tun, nur dass sie das eben auf die üblichen OPS-Aufgaben anwenden
 - Wenn ein Admin bislang einen Server manuell installiert hat, dann tut das bei DevOps jetzt ein Stückchen Programm.
@@ -148,7 +136,7 @@ Uwe
 
 ![DevOps Aufgaben](./img/diagram_12.svg)
 
-Notes:
+Notes: Uwe
 - Damit das gut klappt, verfolgt man als DevOps Engineer einen Ansatz, der sich "Infrastructure as Code" nennt.
 - bei diesem Ansatz beschreit man deklarativ oder prozedural als Code, welche Infrastruktur benötigt wird.
 - Wenn man diesen Code dann ausführt, wird automatisch die passende Infrastruktur erzeugt
@@ -158,7 +146,7 @@ Notes:
 
 ![DevOps Aufgaben](./img/diagram_13.svg)
 
-Notes:
+Notes: Uwe
 - Das ganze betrifft aber nicht nur die Erzeugung und Löschung von Infrastrukturprovisionierung
 - sondern z.B. auch das Monitoring und Alerting der betriebenen Systeme
 
@@ -166,7 +154,7 @@ Notes:
 
 ![DevOps Aufgaben](./img/diagram_14.svg)
 
-Notes:
+Notes: Uwe
 - Das Prinzip "Infrastructure as Code" geht aber noch weiter
 - Was macht heute jeder anständige Entwickler?
 - Er versioniert seinen Code, vorzugsweise in github
@@ -178,21 +166,21 @@ Notes:
 
 ![DevOps Aufgaben](./img/diagram_15.svg)
 
-Notes:
+Notes: Uwe
 - und natürlich schreibt man als Entwickler für seinen Code vernünftige automatisierte Tests
 
 ----
 
 ![DevOps Aufgaben](./img/diagram_16.svg)
 
-Notes:
+Notes: Uwe
 - wann immer es Änderungen gibt, sorgen entsprechende Pipelines für die Continuous Integration
 
 ----
 
 ![DevOps Aufgaben](./img/diagram_17.svg)
 
-Notes:
+Notes: Uwe
 - die dann Änderungen über diverse Stages
 - mit den entsprechenden Tests
 
@@ -201,7 +189,7 @@ Notes:
 
 ![DevOps Aufgaben](./img/diagram_18.svg)
 
-Notes:
+Notes: Uwe
 - letztendlich möglichst automatisch live stellt
 - im Sinne eines Continuous Delivery
 
@@ -223,7 +211,7 @@ Notes: Uwe
 
 Notes: Uwe
 - OK, was man als DevOps Engineer so macht, ist hoffentlich einigermaßen klar
-- Bleibt nur die Frage, was das bringt.
+- Bleibt nur die Frage, ob sich das auch lohnt.
 - Steven, hast Du vielleicht gute Argumente, warum es Sinn macht, DevOps im eigenen Unternehmen einzuführen?
 - Was bringt das eigentlich?
 
