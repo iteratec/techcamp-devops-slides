@@ -1,6 +1,10 @@
 # DevOps
 ## Mehr als nur ein Hype?
 
+Uwe Bessle
+
+Steven Berlin
+
 Notes: Uwe
 * Herzlich Willkommen zum DevOps Track auf dem TechCamp 2019. Wir, mein Kollege Steven und ich wollen Euch ein wenig auf das Thema des Tracks einstimmen.
 Wir glauben nämlich, dass das Thema DevOps mehr als nur ein Hype ist. DevOps wird das Anforderungsprofil, was man künftig als Entwickler können und tun muss, nachhaltig verändern.
@@ -689,11 +693,11 @@ Notes: Uwe
 
 ## Noch Fragen?
 
-Steven Berlin @_sberlin<br/>
-[steven-sebastian.berlin@iteratec.com](mailto:steven-sebastian.berlin@iteratec.com)
-
 Uwe Bessle @bessi65<br/>
 [uwe.bessle@iteratec.com](mailto:uwe.bessle@iteratec.com)
+
+Steven Berlin @_sberlin<br/>
+[steven-sebastian.berlin@iteratec.com](mailto:steven-sebastian.berlin@iteratec.com)
 
 https://iteratec.de
 
