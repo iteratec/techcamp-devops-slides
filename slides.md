@@ -524,7 +524,9 @@ Notes: Steven
 
 ----
 
-![DevOps Support](./img/diagram_61.svg)
+### Zusammenspiel zwischen Entwicklung und Betrieb
+
+![DevOps Support](./img/Release-Reifegrad.png)
 
 Notes: Steven
 * Der Denkfehler vieler DevOps Skeptiker sowohl aus den Reihen der Admins als auch der Entwickler liegt darin, dass sie von der heutigen Ausgangssituation ausgehen, also von schlecht betreibbaren Anwendungen
