@@ -263,13 +263,12 @@ Notes: Steven
 - Das war doch das Thema mit der Agilität.
 - Was hat das denn jetzt wieder mit DevOps zu tun?
 - Uwe, kannst Du uns das mal erklären?
+
 ----
 
 ![DevOps und Agilität](./img/diagram_51.svg)
 
 &nbsp;
-
------
 
 Notes: Uwe
 - Sehr gern Steven.
@@ -280,8 +279,6 @@ Notes: Uwe
 ![DevOps und Agilität](./img/diagram_52.svg)
 
 &nbsp;
-
------
 
 Notes: Uwe
 - Bei DevOps geht es darum, die Schranken zwischen der Entwicklung und dem Betrieb von Anwendungen einzureißen.
@@ -294,8 +291,6 @@ Notes: Uwe
 
 &nbsp;
 
------
-
 Notes: Uwe
 - Bei Agilität widerum geht es darum, den Entwicklungsprozess flexibler und schlanker zu machen, damit der Fokus der Arbeit auf dem Erreichen von Businessnutzen für den Kunden bzw. Anwender und nicht auf irgendwelchen Formalien liegt.
 - Während es bei DevOps darum geht, die Schranken zwischen Entwicklern und Betrieb einzureißen, geht es bei Agilen Projekten und Vorgehensweisen unter anderem darum, die Schranken zwischen der Fachabteilung und den Entwicklern einzureißen
@@ -306,12 +301,9 @@ Notes: Uwe
 
 &nbsp;
 
------
-
 Notes: uwe
 - Wenn wir beide Trends zusammennehmen, dann landen wir bei Agilen Teams mit DevOps-Kompetenzen
 - in der heutigen Zeit gibt es natürlich auch dafür eine Abkürzung
-
 
 ----
 
@@ -590,7 +582,7 @@ Notes: Steven
 * Letztendlich wird die Zweiteilung in Entwicklung und Betrieb also durch eine Zweiteilung in Applikationen und Infrastruktur ersetzt
 * Auf beiden Ebenen werden DevOps Prinzipien und Technologien zum Einsatz gebracht
 * Aus den alten OPS-Teams werden einzelne Mitarbeiter in die Applikations-Teams wechseln, um die Ops-Kompetenzen in den Applikations-Teams zu stärken
-* Gleichzeitig werden auch einzelne Entwickler in die Infrastruktur-Teams wechseln, um die Entwicklungs-Kompetenzen in diesen Teams zu stärken.  
+* Gleichzeitig werden auch einzelne Entwickler in die Infrastruktur-Teams wechseln, um die Entwicklungs-Kompetenzen in diesen Teams zu stärken.
 
 ---
 
