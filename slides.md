@@ -10,7 +10,7 @@ Notes: Uwe
 Wir glauben nämlich, dass das Thema DevOps mehr als nur ein Hype ist. DevOps wird das Anforderungsprofil, was man künftig als Entwickler können und tun muss, nachhaltig verändern.
 * Aber lasst uns mit der Frage starten, ob DevOps überhaupt ein Hype ist.
 
-----
+---
 
 ## DevOps Hype
 
