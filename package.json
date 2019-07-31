@@ -1,10 +1,9 @@
 {
   "name": "techcamp-devops-slides",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "DevOps - Mehr als nur ein Hype: Slides for the DevOps keynote at TechCamp 2019 https://techcamp.hamburg/",
   "dependencies": {
-    "livereload": "^0.8.0",
-    "reveal-md": "^3.0.4"
+    "reveal-md": "^3.1.0"
   },
   "devDependencies": {},
   "scripts": {
